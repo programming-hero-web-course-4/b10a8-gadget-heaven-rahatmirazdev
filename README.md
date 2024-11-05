@@ -4,7 +4,7 @@ Welcome to Gadget Heaven, your one-stop destination for the latest in tech gadge
 
 ## Live Website
 
-Check out the live website [Live Link](#).
+Check out the live website [Live Link](https://gadget-bodda.netlify.app/).
 
 ## Requirement Document
 
