@@ -1,0 +1,147 @@
+{
+    "products": [
+        {
+            "id": "A001",
+            "product_title": "Wireless Mouse",
+            "product_image": "https://www.startech.com.bd/image/cache/catalog/mouse/logitech/g304/g304-01-500x500.jpg",
+            "category": "Accessories",
+            "price": 98.99,
+            "description": "A reliable and ergonomic wireless mouse with long battery life.",
+            "specification": [
+                "Connectivity: Wireless",
+                "Color: Black",
+                "Battery Life: 18 months"
+            ],
+            "availability": true,
+            "rating": 3.5
+        },
+        {
+            "id": "A002",
+            "product_title": "Laptop Stand",
+            "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop-stand/wiwu/s500/s500-01-500x500.webp",
+            "category": "Accessories",
+            "price": 322.99,
+            "description": "Height-adjustable aluminum stand for laptops.",
+            "specification": [
+                "Material: Aluminum",
+                "Height Adjustable: Yes",
+                "Color: Silver"
+            ],
+            "availability": true,
+            "rating": 4.7
+        },
+        {
+            "id": "A003",
+            "product_title": "Bluetooth Keyboard",
+            "product_image": "https://www.startech.com.bd/image/cache/catalog/keyboard/ajazz/ak816-pro/ak816-pro-500x500.webp",
+            "category": "Accessories",
+            "price": 445.99,
+            "description": "Compact Bluetooth keyboard for easy typing on the go.",
+            "specification": [
+                "Connectivity: Bluetooth",
+                "Battery Life: 6 months",
+                "Color: White"
+            ],
+            "availability": false,
+            "rating": 5.0
+        },
+        {
+            "id": "L001",
+            "product_title": "MacBook Air",
+            "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-air/macbook-air-midnight/macbook-air-13-inch-m3-midnight-01-500x500.webp",
+            "category": "Laptops",
+            "price": 879.99,
+            "description": "Lightweight and powerful laptop with the Apple M1 chip.",
+            "specification": [
+                "Screen Size: 13.3 inches",
+                "Processor: Apple M1",
+                "RAM: 8 GB",
+                "Storage: 256 GB SSD",
+                "Operating System: macOS"
+            ],
+            "availability": true,
+            "rating": 3.8
+        },
+        {
+            "id": "L002",
+            "product_title": "Dell XPS 13",
+            "product_image": "https://www.startech.com.bd/image/cache/catalog/laptop/dell/xps-13-plus-9320/xps-13-plus-9320-01-500x500.webp",
+            "category": "Laptops",
+            "price": 499.99,
+            "description": "High-performance laptop with an Intel i7 processor.",
+            "specification": [
+                "Screen Size: 13.4 inches",
+                "Processor: Intel Core i7",
+                "RAM: 16 GB",
+                "Storage: 512 GB SSD",
+                "Operating System: Windows 11"
+            ],
+            "availability": true,
+            "rating": 2.6
+        },
+        {
+            "id": "S001",
+            "product_title": "iPhone 13",
+            "product_image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-13/starlight/iphone-13-starlight-01-500x500.webp",
+            "category": "Smartphones",
+            "price": 899.99,
+            "description": "Apple's latest smartphone with powerful A15 Bionic chip.",
+            "specification": [
+                "Screen Size: 6.1 inches",
+                "Storage: 128 GB",
+                "Camera: 12 MP",
+                "Operating System: iOS"
+            ],
+            "availability": true,
+            "rating": 4.6
+        },
+        {
+            "id": "S002",
+            "product_title": "Samsung Galaxy S21",
+            "product_image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-s21-fe-5g/galaxy-s21-fe-5g-olive-500x500.webp",
+            "category": "Smartphones",
+            "price": 599.99,
+            "description": "Samsung's latest Galaxy S series phone with 64 MP camera.",
+            "specification": [
+                "Screen Size: 6.2 inches",
+                "Storage: 128 GB",
+                "Camera: 64 MP",
+                "Operating System: Android"
+            ],
+            "availability": true,
+            "rating": 3.4
+        },
+        {
+            "id": "T001",
+            "product_title": "iPad Pro",
+            "product_image": "https://www.startech.com.bd/image/cache/catalog/tablet/apple/ipad-pro-6th-gen/ipad-pro-6th-gen-01-500x500.webp",
+            "category": "Tablets",
+            "price": 799.99,
+            "description": "High-performance tablet with Apple M1 chip and Retina display.",
+            "specification": [
+                "Screen Size: 11 inches",
+                "Storage: 128 GB",
+                "Camera: 12 MP",
+                "Operating System: iPadOS"
+            ],
+            "availability": true,
+            "rating": 4.9
+        },
+        {
+            "id": "T002",
+            "product_title": "Samsung Galaxy Tab S7",
+            "product_image": "https://www.startech.com.bd/image/cache/catalog/tablet/samsung/galaxy-s7-fe/galaxy-s7-fe-01-500x500.webp",
+            "category": "Tablets",
+            "price": 649.99,
+            "description": "Powerful Android tablet with a stunning display.",
+            "specification": [
+                "Screen Size: 11 inches",
+                "Storage: 128 GB",
+                "Camera: 13 MP",
+                "Operating System: Android"
+            ],
+            "availability": true,
+            "rating": 3.5
+        }
+    ]
+}
